@@ -1,0 +1,8 @@
+# Скриване на чувствителни данни и системни файлове
+.env
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+media/
+static/
